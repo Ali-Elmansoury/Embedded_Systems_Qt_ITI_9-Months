@@ -1,0 +1,14 @@
+# Track PDF files with Git LFS
+*.pdf filter=lfs diff=lfs merge=lfs -text
+
+# Track JPEG files with Git LFS
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+
+# Track PNG files with Git LFS
+*.png filter=lfs diff=lfs merge=lfs -text
+
+# Track WEBM files with Git LFS
+*.webm filter=lfs diff=lfs merge=lfs -text
+
+# Track MKV files with Git LFS
+*.mkv filter=lfs diff=lfs merge=lfs -text
