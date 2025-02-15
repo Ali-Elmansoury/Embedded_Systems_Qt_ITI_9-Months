@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>left-turn-signal.png</file>
+        <file>right-turn-signal.png</file>
+        <file>carLeftSignal.gif</file>
+        <file>carRightSignal.gif</file>
+        <file>ITI_Logo.svg</file>
+    </qresource>
+</RCC>
